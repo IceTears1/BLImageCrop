@@ -19,7 +19,7 @@ pod 'BLImageCrop'
 <br>
 <img height="400" src="/Images/333.png"/>
 <br>
-<img height="400" src="/Images/444.png"/>
+<img height="400" src="/Images/444.gif"/>
 <br>
 
 
