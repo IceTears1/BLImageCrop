@@ -34,6 +34,7 @@
     return newImage;
 }
 
+
 //获取图片等比缩放后的大小
 - (CGRect)getImageAdaptiveSizeBgView:(UIView *) view{
     //这里计算的是  图片在imageview 上边等比例缩放时候 的坐标

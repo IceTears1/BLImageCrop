@@ -40,7 +40,7 @@
     topLayer.opacity = boxFullAreaAlpha;
     [self.layer addSublayer:topLayer];
     
-
+    
     
     CALayer *leftLayer = [CALayer layer];
     leftLayer.frame = CGRectMake(0, topLayer.frame.size.height, (self.frame.size.width - box_w)/2, box_h);
